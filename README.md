@@ -1,4 +1,4 @@
-# Projeto Spring Data JPA 
+# Projeto Spring Data JPA - Book Store
 
 ## Descrição do Projeto
 
